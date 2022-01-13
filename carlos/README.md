@@ -4,4 +4,4 @@ Repositorio Curriculum vitae Carlos Cardona Cabrera
 
 ## Links
 
-- [Ir a link](https://ccardonacabrera.github.io/portafolio-cv)
+- [Ir a mi curriculum vitae](https://ccardonacabrera.github.io/portafolio-cv)
